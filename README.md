@@ -1,5 +1,5 @@
 {
-    "version":1.5,
+    "version":1.6,
     "layers":[
         {
             "Title":"Google Maps",
@@ -131,11 +131,6 @@
             "Cache" : "false"
         
         },
-    
-Error: Parse error on line 133:
-...            },    ]}
----------------------^
-Expecting 'STRING', 'NUMBER', 'NULL', 'TRUE', 'FALSE', '{', '['
-]
+    ]
 
 }
