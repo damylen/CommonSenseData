@@ -1,5 +1,5 @@
 {
-    "version":1.6,
+    "version":1.7,
     "layers":[
         {
             "Title":"Google Maps",
